@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Corner Size -->
+    <dimen name="corner_primary_btn">20dp</dimen>
+
+    <!-- Margin Size -->
+    <dimen name="margin_primary">8dp</dimen>
+    <dimen name="margin_secondary">16dp</dimen>
+    <dimen name="margin_vertical">40dp</dimen>
+    <dimen name="margin_horizontal">40dp</dimen>
+    <dimen name="margin_spacing">3dp</dimen>
+
+    <!-- Padding Size -->
+    <dimen name="padding_primary">8dp</dimen>
+    <dimen name="padding_secondary">16dp</dimen>
+
+    <!-- Stroke Size -->
+    <dimen name="stroke_primary">1dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="text_primary_heading">20sp</dimen>
+    <dimen name="text_secondary_heading">24sp</dimen>
+    <dimen name="text_primary_body">14sp</dimen>
+    <dimen name="text_primary_button">14sp</dimen>
+    <dimen name="text_primary_caption">12sp</dimen>
+
+</resources>

@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+
+    <!-- Text Heading Style -->
+    <style name="TextPrimaryHeadingStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/source_sans_pro_regular</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/text_primary_heading</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextSecondaryHeadingStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/source_sans_pro_regular</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/text_secondary_heading</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Text Body Style -->
+    <style name="TextPrimaryBodyStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/open_sans_regular</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/text_primary_body</item>
+    </style>
+
+    <!-- Text Button Style -->
+    <style name="TextPrimaryButtonStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/source_sans_pro_regular</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/text_primary_button</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Text Caption Style -->
+    <style name="TextPrimaryCaptionStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/open_sans_regular</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/text_primary_caption</item>
+    </style>
+
+</resources>

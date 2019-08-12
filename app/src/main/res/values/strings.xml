@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">INotes</string>
+    <string name="welcome_starter_heading">Welcome to INotes!</string>
+    <string name="welcome_starter_msg">Write your stories and share them on your social media.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="starter_service_msg">By logging in of registering, I agree to our</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="login_msg">Welcome back, login to continue using our app!</string>
+    <string name="email">Email</string>
+    <string name="error_email">Invalid email!</string>
+    <string name="password">Password</string>
+    <string name="error_empty_password">Fill the password!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login_not_have_account_msg">Don\'t have an account ?</string>
+    <string name="register_msg">Hello there, let\'s join us</string>
+    <string name="first_name">First name</string>
+    <string name="error_name">Min 4 character!</string>
+    <string name="last_name">Last name</string>
+    <string name="error_password">Min 8 character!</string>
+    <string name="register_service_msg">By registering, I agree to our</string>
+    <string name="register_have_account_msg">Already have an account ?</string>
+    <string name="verification_heading">Oops! Who is there?</string>
+    <string name="verification_msg">Your email doesn\'t verified.\nPlease, verify your email to active your account!</string>
+    <string name="verification_us_msg">Verification has not been sent ?</string>
+    <string name="contact_us">Contact us</string>
+    <string name="activate_account">Activate Account</string>
+    <string name="registration_success">Registration Successfully!</string>
+    <string name="error_registration_account_with_same_email_already_exist">Account with the same email is already exist!</string>
+    <string name="error_login_email_is_not_registered">Email is not Registered!</string>
+    <string name="error_login_wrong_password">Wrong password!</string>
+    <string name="success_email_verification_was_sent">Email verification was sent!</string>
+</resources>

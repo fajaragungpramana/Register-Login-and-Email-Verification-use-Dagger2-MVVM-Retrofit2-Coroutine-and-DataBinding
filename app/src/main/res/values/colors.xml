@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color Opacity -->
+    <color name="colorOpacityText">#80000000</color>
+
+    <!-- Color Primary -->
+    <color name="colorPrimary">#08B0F8</color>
+    <color name="colorPrimaryDark">#9E9E9E</color>
+    <color name="colorPrimaryText">#000000</color>
+
+    <!-- Color Secondary -->
+    <color name="colorSecondaryText">#FFFFFF</color>
+
+    <!-- Color Support -->
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDivide">#EBEBEB</color>
+    <color name="colorError">#FF0000</color>
+
+</resources>
