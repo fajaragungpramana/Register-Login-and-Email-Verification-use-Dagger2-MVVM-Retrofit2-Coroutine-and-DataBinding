@@ -5,4 +5,8 @@ Include API (PHP Mysql) Framework CI.
 
 if this repository helps you don't forget to give a star hehe
 
-follow me on UpLabs
+Subscribe My YouTube Channel: 
+* YouTube: Fajar Agung Pramana - https://www.youtube.com/channel/UCptp2GThjExgsKcNgI4y5HQ
+
+Follow Me:
+* Uplabs: Fajar Agung Pramana - https://www.uplabs.com/fajaragungp
